@@ -1,3 +1,4 @@
 El link de Youtube en el que se encuentra nuestro video es:
 https://www.youtube.com/watch?v=WdVCzCUrmhM  ----- Explicación del código 1
 https://www.youtube.com/watch?v=9bdD1F5mRog  ----- Explicación del código 2
+https://youtu.be/hViqQsmpuU8 ----- Explicación para correr el codigo e instalación de requerimientos
